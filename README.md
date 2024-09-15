@@ -1,3 +1,5 @@
+@amunizp is checking to see if it is possible to convert to firefox extension. https://stackoverflow.com/questions/17967442/convert-google-chrome-extension-to-firefox-or-safari-extension 
+
 'I wish I had a little thing on my computer that just replaced the word 'respect for other people' with 'treating people with respect' —Neil Gaiman
 
 
